@@ -5,7 +5,7 @@ Bienvenue sur mon GitHub ! Je suis **Chahrazad Dahmani**, une étudiante en **Ba
 Mon aventure en informatique a débuté avec une passion de longue date pour la technologie, et chaque jour je cherche à repousser mes limites et à apprendre de nouvelles compétences.
 
 ## 🚀 Mes Objectifs
-Je vais intégrer le **cycle ingénieur en apprentissage** avec une spécialité en **intelligence artificielle et data**. Mon objectif est de développer mes compétences en IA, en machine learning et en data science,je cherche constamment à apprendre de nouvelles technologies et à développer des projets concrets qui auront un impact, tout en travaillant dans un environnement dynamique et innovant.
+Je vais intégrer le **cycle ingénieur en apprentissage**. Mon objectif est de développer mes compétences, je cherche constamment à apprendre de nouvelles technologies et à développer des projets concrets qui auront un impact, tout en travaillant dans un environnement dynamique et innovant.
 
 ## 🚀 Compétences techniques
 
